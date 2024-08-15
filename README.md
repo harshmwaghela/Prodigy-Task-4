@@ -10,3 +10,8 @@ To demonstrate sentiment trends and patterns over time, analytical graphics were
 Tools: Pandas, TextBlob, Matplotlib, Seaborn, Python (Jupyter Notebook), and more.
 
 I learned a lot about processing real-world social media data and using NLP techniques to sentiment analysis from this project. The process of visualizing these sentiment patterns yielded a wealth of information on public opinion and sentiments toward the selected topics or businesses, highlighting the significance of data in comprehending consumer behavior. 
+
+# Task-04
+Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
+Sample Dataset :- https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
